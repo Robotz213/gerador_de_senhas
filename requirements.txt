@@ -1,0 +1,6 @@
+openpyxl
+comtypes
+termcolor
+
+## Requer LibreOffice instalado
+
