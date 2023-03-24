@@ -113,7 +113,6 @@ class Ui_Upload(object):
 
     def retranslateUi(self, Upload):
         Upload.setWindowTitle(QCoreApplication.translate("Upload", u"Form", None))
-        self.label.setText(QCoreApplication.translate("Upload", u"Informe a planilha com arquivos a serem enviados", None))
         self.BuscarPlanilha.setText(QCoreApplication.translate("Upload", u"Buscar", None))
         self.IniciarUpload.setText(QCoreApplication.translate("Upload", u"Iniciar", None))
     # retranslateUi
